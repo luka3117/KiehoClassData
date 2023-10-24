@@ -1,0 +1,9 @@
+変数名：都道府県別ヘルスケア産業協議会
+出典：経済産業省（ヘルスケア産業）
+取得元：以下のリンク
+https://www.meti.go.jp/policy/mono_info_service/healthcare/index.html
+https://www.meti.go.jp/policy/mono_info_service/healthcare/downloadfiles/tiikibankyogikai_list.pdf
+詳細説明：
+・都道府県ごとのヘルスケア産業協会の有無
+・ヘルスケア産業協会内の関係団体会員数
+#############################################################

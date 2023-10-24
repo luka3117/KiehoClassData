@@ -1,0 +1,20 @@
+label list 
+
+
+\ref{ch1:intro}
+\ref{ch2:data}
+\ref{ch3:des}
+\ref{ch4:methods}
+\ref{ch5:varsel}
+\ref{ch6:FA}
+\ref{ch7:glm}
+\ref{ch8:bayes}
+\ref{ch9:conclusion}
+\ref{ch:conclusion}
+
+\ref{ch:dataref} 参考文献
+
+
+付録 
+
+\ref{app}
